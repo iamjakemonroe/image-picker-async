@@ -43,7 +43,7 @@ export default function ImagePickerAsync({ navigation }) {
           </TouchableOpacity>
         </View>
       </View>
-      <View style={{ height: 150 }}></View>
+      <View style={{ height: 152 }}></View>
     </View>
   );
 }
